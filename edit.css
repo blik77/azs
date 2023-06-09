@@ -1,0 +1,18 @@
+.no_border {
+    border-width: 0px;
+}
+.save_but {
+    background-image: url( images/save_but.png ) !important;
+}
+.add_but {
+    background-image: url( images/add_but.png ) !important;
+}
+.logout {
+    background-image: url( images/logout.gif ) !important;
+}
+.cancel_but {
+    background-image: url( images/cancel_but.png ) !important;
+}
+.accept {
+    background-image: url( images/accept.png ) !important;
+}
